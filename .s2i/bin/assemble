@@ -25,13 +25,11 @@ if [ -f composer.json ]; then
   fi
 fi
 
-mkdir -p ../volume
-mv data ../volume
-mv conf ../volume
-mv lib ../volume
-ln -s ../volume/data data
-ln -s ../volume/conf conf
-ln -s ../volume/lib lib
+mkdir -p /opt/app-root/volume
+mv data /opt/app-root/volume
+mv conf /opt/app-root/volume
+ln -s /opt/app-root/volume/data data
+ln -s /opt/app-root/volume/conf conf
 
 # Fix source directory permissions
 fix-permissions ./
