@@ -34,6 +34,7 @@
 /lib/tpl/*
 !/lib/tpl/dokuwiki
 !/lib/tpl/index.php
+!/lib/tpl/bootstrap3
 lib/images/*/local/*
 
 # composer default ignores
