@@ -1,10 +1,10 @@
 ====== @NAME@ (@USER@) - Private Space ======
-This namespace ''//@TARGETPRIVATENS@://'' and it's content (pages, images, ...) is **reserved for your own usage** (only superusers can also access to it)...
-  * To create a page inside this private space, simply use the standard link syntax __without any namespace__ :
+Этот раздел ''//@TARGETPRIVATENS@://'' и весь его контент (страницы, изображения, ...) **доступны только вам** (ну и администраторам)...
+  * Чтобы создать страницу в этом разделе просто используйте стандартный синтаксис создания страниц без указания раздела:
 <code>[[example page 1]]
 [[example 2|My example page 2]]</code>
-  * To create a sub-namespace, simply indicate the new page's full position :
+  * Чтобы создать подраздел, используйте полный путь к новому разделу:
 <code>[[@TARGETPRIVATENS@:<sub-namespace_to_create>:example 3]]</code>
 
-Feel free to remove this paragraph (beside the title)...\\
-Now, write something! :-D
+После прочтения, можете спокойно удалить все вышеописанное.
+И написать что-то свое.

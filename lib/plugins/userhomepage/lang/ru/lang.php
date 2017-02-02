@@ -5,13 +5,13 @@
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  */
 
-    $lang['copyerror'] = 'Copy error';
-    $lang['copysuccess'] = 'Successfull copy';
-    $lang['copynotneeded'] = 'Copy not needed';
-    $lang['createdprivatens'] = 'Created your private namespace';
-    $lang['createdpublicpage'] = 'Created your public page';
-    $lang['privatenamespace'] = 'Private Space';
-    $lang['publicpage'] = 'Public Page';
+    $lang['copyerror'] = 'Ошибка копирования';
+    $lang['copysuccess'] = 'Успешно скопировано';
+    $lang['copynotneeded'] = 'Копирование не требуется';
+    $lang['createdprivatens'] = 'Создан ваше личный раздел';
+    $lang['createdpublicpage'] = 'Создана ваша публичная страница';
+    $lang['privatenamespace'] = 'Личный раздел';
+    $lang['publicpage'] = 'Публичная страница';
     $lang['uhpcreated'] = 'Automatic creation by User Homepage plugin';
     $lang['fromskeleton'] = 'Added this page from User Homepage skeleton to your private namespace:';
     $lang['aclupdate'] = 'ACL rules added or updated:';
