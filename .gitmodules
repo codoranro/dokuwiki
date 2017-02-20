@@ -4,3 +4,9 @@
 [submodule "lib/plugins/oauth"]
 	path = lib/plugins/oauth
 	url = https://github.com/cosmocode/dokuwiki-plugin-oauth/
+[submodule "lib/plugins/discussion"]
+	path = lib/plugins/discussion
+	url = https://github.com/dokufreaks/plugin-discussion.git
+[submodule "lib/plugins/templatepagename"]
+	path = lib/plugins/templatepagename
+	url = https://github.com/Klap-in/dokuwiki-plugin-templatepagename.git
