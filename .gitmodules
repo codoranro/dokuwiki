@@ -1,3 +1,6 @@
 [submodule "lib/tpl/bootstrap3"]
 	path = lib/tpl/bootstrap3
 	url = https://github.com/LotarProject/dokuwiki-template-bootstrap3/
+[submodule "lib/plugins/oauth"]
+	path = lib/plugins/oauth
+	url = https://github.com/cosmocode/dokuwiki-plugin-oauth/
