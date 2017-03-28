@@ -10,3 +10,12 @@
 [submodule "lib/plugins/templatepagename"]
 	path = lib/plugins/templatepagename
 	url = https://github.com/Klap-in/dokuwiki-plugin-templatepagename.git
+[submodule "lib/plugins/gallery"]
+	path = lib/plugins/gallery
+	url = https://github.com/splitbrain/dokuwiki-plugin-gallery.git
+[submodule "lib/plugins/upload"]
+	path = lib/plugins/upload
+	url = https://github.com/lupo49/dokuwiki-plugin-upload
+[submodule "lib/plugins/advanced"]
+	path = lib/plugins/advanced
+	url = https://github.com/LotarProject/dokuwiki-plugin-advanced.git
