@@ -25,3 +25,6 @@
 [submodule "lib/plugins/feed"]
 	path = lib/plugins/feed
 	url = https://github.com/dokufreaks/plugin-feed/
+[submodule "lib/plugins/avatar"]
+	path = lib/plugins/avatar
+	url = https://github.com/dokufreaks/plugin-avatar
