@@ -19,3 +19,9 @@
 [submodule "lib/plugins/advanced"]
 	path = lib/plugins/advanced
 	url = https://github.com/LotarProject/dokuwiki-plugin-advanced.git
+[submodule "lib/plugins/pagelist"]
+	path = lib/plugins/pagelist
+	url = https://github.com/dokufreaks/plugin-pagelist
+[submodule "lib/plugins/feed"]
+	path = lib/plugins/feed
+	url = https://github.com/dokufreaks/plugin-feed/
